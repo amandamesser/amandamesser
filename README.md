@@ -8,7 +8,7 @@ I am the Head of Operations at FingerprintJS and am looking for top full-stack a
 
 :bulb: We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies. Some of our customers include: Target, checkout.com, coinbase and eBay just to name a few.
 
-:earth_americas: <b>We are a globally dispersed, 100% remote company with a strong open-source focus.</b> Our flagship open source project is <a href="https://github.com/fingerprintjs/fingerprintjs">FingerprintJS</a>. It has 14K stars on GitHub and is used on 12% of Alexa top 500 websites.
+:earth_americas: <b>We are a globally dispersed, 100% remote company with a strong open-source focus.</b> Our flagship open source project is <a href="https://github.com/fingerprintjs/fingerprintjs">FingerprintJS</a>. It has 15K+ stars on GitHub and is used on 12% of Alexa top 500 websites.
 
 :moneybag: <a href="https://www.crunchbase.com/organization/fingerprintjs">We have raised $44M</a>, backed by Craft Ventures (previously invested in <a href="https://www.tesla.com/">Tesla</a>, <a href="https://www.facebook.com/">Facebook</a>, <a href="https://www.airbnb.com/">Airbnb</a>), Nexus VP (previously invested in <a href="https://www.postman.com/">Postman</a>, <a href="https://hasura.io/">Hasura</a>) and Uncorrelated Ventures (previously invested in <a href="https://redis.io/">Redis</a>, <a href="http://rollbar.com/">Rollbar</a> & <a href="https://gradle.org/">Gradle</a>).
 
